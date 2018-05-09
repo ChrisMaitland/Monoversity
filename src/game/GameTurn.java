@@ -3,7 +3,6 @@ package game;
 /**
  * This class controls the mechanics involved in a game turn
  * 
- * @author Helen
  *
  */
 

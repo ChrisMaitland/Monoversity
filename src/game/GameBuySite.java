@@ -3,7 +3,6 @@ package game;
 /**
  * This class contains methods that enables a user to buy a site
  * 
- * @author Helen
  *
  */
 public class GameBuySite {

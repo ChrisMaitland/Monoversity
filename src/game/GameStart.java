@@ -1,7 +1,7 @@
 package game;
 /**
  * This class deals with the methods that set up the gameplay
- *@author Helen
+ *@author Helen, Chris
  *
  */
 

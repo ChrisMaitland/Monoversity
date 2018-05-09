@@ -5,7 +5,6 @@ package game;
  * properties have been developed on the site. It holds the methods for
  * calculating the rent, baseItem and specialItem cost
  * 
- * @author Helen
  *
  */
 public class TitleDeed {

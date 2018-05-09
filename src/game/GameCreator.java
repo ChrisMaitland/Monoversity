@@ -3,7 +3,6 @@ package game;
 /**
  * This class creates the board and pieces that the game is played with.
  * 
- * @author Helen
  *
  */
 public class GameCreator {

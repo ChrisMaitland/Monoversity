@@ -3,7 +3,6 @@ package game;
 /**
  * This class represents the board that Monoversity is played on
  * 
- * @author Helen
  *
  */
 public class Board {

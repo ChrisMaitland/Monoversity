@@ -3,7 +3,6 @@ package game;
 /**
  * This class represents an account that holds a player's balance
  * 
- * @author Helen
  *
  */
 public class Account {

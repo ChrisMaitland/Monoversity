@@ -2,7 +2,6 @@ package game;
 
 /**
  * This class represents a player's portfolio of title deeds
- * @author Helen
  *
  */
 

@@ -6,7 +6,6 @@ import java.util.Scanner;
 /**
  * This method holds all the methods involved in buying an item
  * 
- * @author Helen
  *
  */
 public class GameBuyItem {
